@@ -1,0 +1,7 @@
+﻿  Combi.cpp
+D:\later github\Semestr4\Мат прога\labs\lab_2\LAB\LAB\Combi.cpp(47,37): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  LAB.cpp
+D:\later github\Semestr4\Мат прога\labs\lab_2\LAB\LAB\LAB.cpp(84,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Salesman.cpp
+  Создание кода...
+  LAB.vcxproj -> D:\later github\Semestr4\Мат прога\labs\lab_2\LAB\x64\Debug\LAB.exe
