@@ -1,0 +1,7 @@
+﻿  BFS.cpp
+  DFS.cpp
+  Graph.cpp
+  main.cpp
+  Создание кода...
+D:\later github\Semestr4\Мат прога\MP-2-2-main\lab06\lab06\main.cpp(90,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab06.vcxproj -> D:\later github\Semestr4\Мат прога\MP-2-2-main\lab06\lab06\x64\Debug\lab06.exe
